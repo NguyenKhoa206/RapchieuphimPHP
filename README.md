@@ -1,4 +1,4 @@
-# 🎬 Galaxy Cinema — Hệ thống đặt vé PHP 2025
+# RapChieuPhimPHP2025
 
 > Hệ thống đặt vé xem phim trực tuyến xây dựng bằng PHP thuần, hỗ trợ đặt vé, chọn ghế, thanh toán VNPay và quản trị rạp chiếu phim toàn diện.
 
